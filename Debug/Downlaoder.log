@@ -1,0 +1,3 @@
+﻿  Downlaoder.c
+C:\Users\User\Desktop\Downlaoder\Downlaoder.c(34,28): warning C4047: '<=': 'HINSTANCE' differs in levels of indirection from 'int'
+  Downlaoder.vcxproj -> C:\Users\User\Desktop\Downlaoder\Debug\Downlaoder.exe
